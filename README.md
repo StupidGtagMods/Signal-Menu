@@ -12,7 +12,7 @@
 	<a href="https://github.com/StupidGtagMods/Signal-Menu/releases/latest">
   <img src="https://img.shields.io/github/downloads/StupidGtagMods/Signal-Menu/latest/Signal_Menu.dll?style=for-the-badge">
 </a>
-	<a href="https://discord.com/invite/dwvRdQBzJa">
+	<a href="https://discord.gg/tAecRt34J6">
   <img src="https://img.shields.io/discord/1475996153324765268?label=discord&style=for-the-badge&color=blueviolet">
 </a>
 </p>
