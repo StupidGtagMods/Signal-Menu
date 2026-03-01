@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img src="Recources/Logo.png"></a>
+  <a href="#"><img src="Recources/Btter.png"></a>
   <a href="#"><img src="Recources/title.png"></a>
 </p>
 
