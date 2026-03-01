@@ -1,4 +1,27 @@
-# Signal Menu
+<p align="center">
+  <a href="#"><img src="Resources/Logo.png"></a>
+  <a href="#"><img src="Resources/title.png"></a>
+</p>
+
+---
+
+<p align="center">
+	<a href="https://github.com/StupidGtagMods/Signal-Menu/releases">
+  <img src="https://img.shields.io/github/v/release/StupidGtagMods/Signal-Menu?label=version&style=for-the-badge">
+</a>
+	<a href="https://github.com/StupidGtagMods/Signal-Menu/releases/latest">
+  <img src="https://img.shields.io/github/downloads/StupidGtagMods/Signal-Menu/latest/Signal_Menu.dll?style=for-the-badge">
+</a>
+	<a href="https://discord.com/invite/dwvRdQBzJa">
+  <img src="https://img.shields.io/discord/1475996153324765268?label=discord&style=for-the-badge&color=blueviolet">
+</a>
+</p>
+
+---
+
+# <img src="Resources/GitHub/cone-emoji.png" height=26px> ii's Stupid Menu  
+
+
 
 A fork of [ii's Stupid Menu](https://github.com/iiDk-the-actual/iis.Stupid.Menu) with **157+ safety patches** from Signal Safety layered on top.
 
