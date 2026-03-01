@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="#"><img src="Resources/Logo.png"></a>
-  <a href="#"><img src="Resources/title.png"></a>
+  <a href="#"><img src="Recources/Logo.png"></a>
+  <a href="#"><img src="Recources/title.png"></a>
 </p>
 
 ---
