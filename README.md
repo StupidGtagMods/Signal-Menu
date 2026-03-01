@@ -19,7 +19,7 @@
 
 ---
 
-# <img src="Resources/GitHub/cone-emoji.png" height=26px> ii's Stupid Menu  
+# <img src="Recources/GitHub/cone-emoji.png" height=26px> ii's Stupid Menu  
 
 
 
